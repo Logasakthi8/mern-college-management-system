@@ -43,8 +43,7 @@ build/Release
 # Dependency directories
 node_modules/
 
-#misc
-.env
+
 
 # Optional npm cache directory
 .npm
@@ -58,8 +57,7 @@ node_modules/
 # Output of 'npm pack'
 *.tgz
 
-#production
-/build
+
 
 # Yarn Integrity file
 .yarn-integrity
